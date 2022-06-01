@@ -55,4 +55,3 @@ Screenshot of uploaded image
 ## **Credits**
 ©  Michael Clancy 2022
 
-https://www.youtube.com/watch?v=PpbFyLTtpWI&ab_channel=TheNetNinja
